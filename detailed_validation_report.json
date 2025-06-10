@@ -1,0 +1,72 @@
+[
+  {
+    "dataset": "global_crypto",
+    "date": "2024-01-15",
+    "issues": [
+      "1min: X:ABT-USD has 160 irregular intervals",
+      "1min: X:ACA-USD has 53 irregular intervals",
+      "5min: X:ACA-USD has 33 irregular intervals"
+    ],
+    "passed": false
+  },
+  {
+    "dataset": "us_stocks_sip",
+    "date": "2025-06-02",
+    "issues": [
+      "1min: A has 4 irregular intervals",
+      "1min: AA has 68 irregular intervals",
+      "1min: AAA has 12 irregular intervals",
+      "1min: AAAU has 60 irregular intervals",
+      "1min: AACB has 2 irregular intervals",
+      "5min: A has 1 irregular intervals",
+      "5min: AA has 19 irregular intervals",
+      "5min: AAA has 9 irregular intervals",
+      "5min: AAAU has 13 irregular intervals",
+      "5min: AACB has 1 irregular intervals",
+      "15min: A has 1 irregular intervals",
+      "15min: AA has 3 irregular intervals",
+      "15min: AAA has 4 irregular intervals",
+      "15min: AAAU has 7 irregular intervals",
+      "15min: AACB has 1 irregular intervals",
+      "30min: A has 1 irregular intervals",
+      "30min: AA has 1 irregular intervals",
+      "30min: AAA has 1 irregular intervals",
+      "30min: AAAU has 3 irregular intervals",
+      "30min: AACB has 1 irregular intervals",
+      "60min: AAAU has 2 irregular intervals"
+    ],
+    "passed": false
+  },
+  {
+    "dataset": "us_indices",
+    "date": "2025-06-02",
+    "issues": [
+      "1min: I:A1BSC has 27 irregular intervals",
+      "1min: I:A1CYC has 118 irregular intervals",
+      "1min: I:A1DOW has 97 irregular intervals",
+      "1min: I:A1ENE has 44 irregular intervals",
+      "1min: I:A1FIN has 49 irregular intervals",
+      "5min: I:A1BSC has 1 irregular intervals",
+      "5min: I:A1CYC has 4 irregular intervals",
+      "5min: I:A1DOW has 5 irregular intervals",
+      "5min: I:A1ENE has 2 irregular intervals",
+      "5min: I:A1FIN has 3 irregular intervals",
+      "15min: I:A1BSC has 1 irregular intervals",
+      "15min: I:A1CYC has 1 irregular intervals",
+      "15min: I:A1DOW has 1 irregular intervals",
+      "15min: I:A1ENE has 1 irregular intervals",
+      "15min: I:A1FIN has 1 irregular intervals",
+      "30min: I:A1BSC has 1 irregular intervals",
+      "30min: I:A1CYC has 1 irregular intervals",
+      "30min: I:A1DOW has 1 irregular intervals",
+      "30min: I:A1ENE has 1 irregular intervals",
+      "30min: I:A1FIN has 1 irregular intervals",
+      "60min: I:A1BSC has 1 irregular intervals",
+      "60min: I:A1CYC has 1 irregular intervals",
+      "60min: I:A1DOW has 1 irregular intervals",
+      "60min: I:A1ENE has 1 irregular intervals",
+      "60min: I:A1FIN has 1 irregular intervals"
+    ],
+    "passed": false
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "file": "2023-06-09.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 2 unexpected gaps; AA: 17 unexpected gaps; AAAU: 91 unexpected gaps",
+      "Out-of-market-hours data: 29 rows (2.9% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1450495,
+    "tickers": 10184,
+    "file_size_mb": 78.54
+  },
+  {
+    "file": "2023-07-19.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 3 unexpected gaps; AA: 75 unexpected gaps; AAAU: 94 unexpected gaps",
+      "Out-of-market-hours data: 172 rows (14.5% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1517549,
+    "tickers": 10327,
+    "file_size_mb": 82.38
+  },
+  {
+    "file": "2023-08-24.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 14 unexpected gaps; AA: 32 unexpected gaps; AAA: 4 unexpected gaps",
+      "Out-of-market-hours data: 51 rows (4.9% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1396011,
+    "tickers": 10091,
+    "file_size_mb": 75.54
+  },
+  {
+    "file": "2023-10-02.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 5 unexpected gaps; AA: 19 unexpected gaps; AAA: 1 unexpected gaps",
+      "Out-of-market-hours data: 46 rows (4.1% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1504995,
+    "tickers": 10112,
+    "file_size_mb": 81.44
+  },
+  {
+    "file": "2023-11-08.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 9 unexpected gaps; AA: 19 unexpected gaps; AAA: 1 unexpected gaps",
+      "Out-of-market-hours data: 35 rows (3.0% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1460509,
+    "tickers": 10107,
+    "file_size_mb": 79.11
+  },
+  {
+    "file": "2023-12-15.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 4 unexpected gaps; AA: 52 unexpected gaps; AAA: 9 unexpected gaps",
+      "Out-of-market-hours data: 91 rows (7.7% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1626233,
+    "tickers": 10222,
+    "file_size_mb": 88.4
+  },
+  {
+    "file": "2024-01-25.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 23 unexpected gaps; AA: 19 unexpected gaps; AAA: 2 unexpected gaps",
+      "Out-of-market-hours data: 40 rows (3.7% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1485529,
+    "tickers": 10161,
+    "file_size_mb": 80.7
+  },
+  {
+    "file": "2024-03-04.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 7 unexpected gaps; AA: 18 unexpected gaps; AAA: 19 unexpected gaps",
+      "Out-of-market-hours data: 55 rows (4.7% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1597821,
+    "tickers": 10241,
+    "file_size_mb": 86.75
+  },
+  {
+    "file": "2024-04-11.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 31 unexpected gaps; AA: 34 unexpected gaps; AAAU: 55 unexpected gaps",
+      "Out-of-market-hours data: 76 rows (6.5% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1484229,
+    "tickers": 10133,
+    "file_size_mb": 80.46
+  },
+  {
+    "file": "2024-05-17.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 23 unexpected gaps; AA: 28 unexpected gaps; AAA: 11 unexpected gaps",
+      "Out-of-market-hours data: 52 rows (4.4% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1440526,
+    "tickers": 10104,
+    "file_size_mb": 78.25
+  },
+  {
+    "file": "2024-06-26.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 12 unexpected gaps; AA: 12 unexpected gaps; AAA: 4 unexpected gaps",
+      "Out-of-market-hours data: 22 rows (2.0% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1469749,
+    "tickers": 10159,
+    "file_size_mb": 79.65
+  },
+  {
+    "file": "2024-08-02.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 18 unexpected gaps; AA: 32 unexpected gaps; AAA: 6 unexpected gaps",
+      "Out-of-market-hours data: 71 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1646820,
+    "tickers": 10277,
+    "file_size_mb": 89.39
+  },
+  {
+    "file": "2024-09-11.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 26 unexpected gaps; AA: 36 unexpected gaps; AAA: 6 unexpected gaps",
+      "Out-of-market-hours data: 107 rows (9.2% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1474433,
+    "tickers": 10151,
+    "file_size_mb": 80.04
+  },
+  {
+    "file": "2024-10-17.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 26 unexpected gaps; AA: 62 unexpected gaps; AAA: 9 unexpected gaps",
+      "Out-of-market-hours data: 222 rows (16.6% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1460354,
+    "tickers": 10309,
+    "file_size_mb": 79.54
+  },
+  {
+    "file": "2024-11-22.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 7 unexpected gaps; AA: 14 unexpected gaps; AAA: 5 unexpected gaps",
+      "Out-of-market-hours data: 44 rows (3.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1586031,
+    "tickers": 10377,
+    "file_size_mb": 86.49
+  },
+  {
+    "file": "2025-01-02.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 37 unexpected gaps; AA: 16 unexpected gaps; AAA: 14 unexpected gaps",
+      "Out-of-market-hours data: 34 rows (3.1% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1701989,
+    "tickers": 10598,
+    "file_size_mb": 92.38
+  },
+  {
+    "file": "2025-02-12.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 19 unexpected gaps; AA: 45 unexpected gaps; AAA: 15 unexpected gaps",
+      "Out-of-market-hours data: 107 rows (8.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1639439,
+    "tickers": 10557,
+    "file_size_mb": 89.5
+  },
+  {
+    "file": "2025-03-21.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 31 unexpected gaps; AA: 28 unexpected gaps; AAA: 12 unexpected gaps",
+      "Out-of-market-hours data: 59 rows (5.1% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1578285,
+    "tickers": 10482,
+    "file_size_mb": 85.92
+  },
+  {
+    "file": "2025-04-29.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 31 unexpected gaps; AA: 35 unexpected gaps; AAA: 5 unexpected gaps",
+      "Out-of-market-hours data: 85 rows (7.1% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1559587,
+    "tickers": 10578,
+    "file_size_mb": 85.01
+  },
+  {
+    "file": "2025-06-06.csv",
+    "dataset": "us_stocks_sip",
+    "category": "stocks",
+    "issues": [
+      "Time gap issues: A: 24 unexpected gaps; AA: 22 unexpected gaps; AAA: 7 unexpected gaps",
+      "Out-of-market-hours data: 48 rows (4.2% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 1609110,
+    "tickers": 10666,
+    "file_size_mb": 87.8
+  },
+  {
+    "file": "2023-06-09.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 218 unexpected gaps; X:1INCH-EUR: 16 unexpected gaps; X:1INCH-USD: 331 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 169307,
+    "tickers": 692,
+    "file_size_mb": 11.51
+  },
+  {
+    "file": "2023-07-17.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 283 unexpected gaps; X:1INCH-EUR: 257 unexpected gaps; X:1INCH-USD: 50 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 185106,
+    "tickers": 689,
+    "file_size_mb": 12.63
+  },
+  {
+    "file": "2023-08-24.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 188 unexpected gaps; X:1INCH-EUR: 72 unexpected gaps; X:1INCH-USD: 230 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 158492,
+    "tickers": 686,
+    "file_size_mb": 10.82
+  },
+  {
+    "file": "2023-10-02.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 175 unexpected gaps; X:1INCH-EUR: 56 unexpected gaps; X:1INCH-USD: 268 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 176242,
+    "tickers": 702,
+    "file_size_mb": 12.05
+  },
+  {
+    "file": "2023-11-09.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 310 unexpected gaps; X:1INCH-USD: 301 unexpected gaps; X:AAVE-USD: 9 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 220035,
+    "tickers": 398,
+    "file_size_mb": 15.08
+  },
+  {
+    "file": "2023-12-17.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 296 unexpected gaps; X:1INCH-USD: 305 unexpected gaps; X:AAVE-USD: 51 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 209262,
+    "tickers": 394,
+    "file_size_mb": 14.35
+  },
+  {
+    "file": "2024-01-25.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 178 unexpected gaps; X:1INCH-USD: 302 unexpected gaps; X:AAVE-USD: 205 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 186774,
+    "tickers": 396,
+    "file_size_mb": 12.72
+  },
+  {
+    "file": "2024-03-03.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 278 unexpected gaps; X:1INCH-USD: 279 unexpected gaps; X:AAVE-USD: 121 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 281215,
+    "tickers": 403,
+    "file_size_mb": 19.52
+  },
+  {
+    "file": "2024-04-10.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 97 unexpected gaps; X:1INCH-USD: 334 unexpected gaps; X:AAVE-USD: 57 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 248264,
+    "tickers": 405,
+    "file_size_mb": 16.98
+  },
+  {
+    "file": "2024-05-19.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 219 unexpected gaps; X:1INCH-USD: 284 unexpected gaps; X:AAVE-USD: 289 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 181182,
+    "tickers": 417,
+    "file_size_mb": 12.32
+  },
+  {
+    "file": "2024-06-26.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 177 unexpected gaps; X:1INCH-USD: 264 unexpected gaps; X:AAVE-USD: 223 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 178375,
+    "tickers": 434,
+    "file_size_mb": 12.18
+  },
+  {
+    "file": "2024-08-04.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 126 unexpected gaps; X:1INCH-USD: 264 unexpected gaps; X:A8-USD: 249 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 208335,
+    "tickers": 453,
+    "file_size_mb": 14.24
+  },
+  {
+    "file": "2024-09-11.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 255 unexpected gaps; X:1INCH-USD: 370 unexpected gaps; X:A8-USD: 148 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 161700,
+    "tickers": 455,
+    "file_size_mb": 11.1
+  },
+  {
+    "file": "2024-10-19.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 174 unexpected gaps; X:1INCH-USD: 236 unexpected gaps; X:A8-USD: 72 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 176629,
+    "tickers": 460,
+    "file_size_mb": 12.1
+  },
+  {
+    "file": "2024-11-27.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 6 unexpected gaps; X:1INCH-USD: 322 unexpected gaps; X:A8-USD: 190 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 295183,
+    "tickers": 461,
+    "file_size_mb": 20.57
+  },
+  {
+    "file": "2025-01-04.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 209 unexpected gaps; X:1INCH-USD: 250 unexpected gaps; X:A8-USD: 137 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 241162,
+    "tickers": 456,
+    "file_size_mb": 16.68
+  },
+  {
+    "file": "2025-02-11.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 142 unexpected gaps; X:1INCH-USD: 214 unexpected gaps; X:A8-USD: 151 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 257869,
+    "tickers": 492,
+    "file_size_mb": 17.88
+  },
+  {
+    "file": "2025-03-22.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 170 unexpected gaps; X:1INCH-USD: 105 unexpected gaps; X:A8-USD: 194 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 193358,
+    "tickers": 477,
+    "file_size_mb": 13.29
+  },
+  {
+    "file": "2025-04-29.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 113 unexpected gaps; X:1INCH-USD: 303 unexpected gaps; X:A8-USD: 184 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 226407,
+    "tickers": 482,
+    "file_size_mb": 15.68
+  },
+  {
+    "file": "2025-06-07.csv",
+    "dataset": "global_crypto",
+    "category": "currency",
+    "issues": [
+      "Time gap issues: X:00-USD: 124 unexpected gaps; X:1INCH-USD: 81 unexpected gaps; X:A8-USD: 93 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 177925,
+    "tickers": 463,
+    "file_size_mb": 12.3
+  },
+  {
+    "file": "2023-06-09.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:B15GI: 6 unexpected gaps; I:B15PI: 6 unexpected gaps",
+      "Out-of-market-hours data: 4 rows (0.3% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5333732,
+    "tickers": 11810,
+    "file_size_mb": 474.96
+  },
+  {
+    "file": "2023-07-18.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5381651,
+    "tickers": 11825,
+    "file_size_mb": 478.84
+  },
+  {
+    "file": "2023-08-24.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE10RP: 1 unexpected gaps; I:AAVE25RP: 1 unexpected gaps; I:AAVE50RP: 2 unexpected gaps",
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5368283,
+    "tickers": 11844,
+    "file_size_mb": 476.44
+  },
+  {
+    "file": "2023-10-03.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE100: 1 unexpected gaps; I:AAVE10RP: 2 unexpected gaps; I:AAVE25RP: 1 unexpected gaps",
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5438935,
+    "tickers": 11935,
+    "file_size_mb": 482.13
+  },
+  {
+    "file": "2023-11-09.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5546097,
+    "tickers": 11933,
+    "file_size_mb": 492.06
+  },
+  {
+    "file": "2023-12-18.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5527175,
+    "tickers": 11957,
+    "file_size_mb": 491.58
+  },
+  {
+    "file": "2024-01-25.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE10RP: 1 unexpected gaps",
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5548041,
+    "tickers": 11978,
+    "file_size_mb": 492.88
+  },
+  {
+    "file": "2024-03-04.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 60 rows (4.6% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5559794,
+    "tickers": 12008,
+    "file_size_mb": 494.11
+  },
+  {
+    "file": "2024-04-10.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE100: 2 unexpected gaps; I:AAVE10RP: 1 unexpected gaps; I:AAVE25RP: 1 unexpected gaps",
+      "Out-of-market-hours data: 295 rows (5.9% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5539812,
+    "tickers": 12236,
+    "file_size_mb": 491.32
+  },
+  {
+    "file": "2024-05-20.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5459148,
+    "tickers": 12097,
+    "file_size_mb": 484.67
+  },
+  {
+    "file": "2024-06-26.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE10RP: 5 unexpected gaps; I:AAVE25RP: 4 unexpected gaps",
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Low > Open/Close: 1 rows",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5482175,
+    "tickers": 12216,
+    "file_size_mb": 485.61
+  },
+  {
+    "file": "2024-08-05.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 295 rows (5.8% of sampled)",
+      "Negative open values: 1 rows",
+      "Negative high values: 1 rows",
+      "Negative low values: 1 rows",
+      "Negative close values: 1 rows",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 5648611,
+    "tickers": 12293,
+    "file_size_mb": 498.63
+  },
+  {
+    "file": "2024-09-11.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:A1BSC: 88 unexpected gaps; I:A1CYC: 90 unexpected gaps; I:A1DOW: 118 unexpected gaps",
+      "Out-of-market-hours data: 633 rows (15.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6230586,
+    "tickers": 12386,
+    "file_size_mb": 551.11
+  },
+  {
+    "file": "2024-10-18.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:AAVE10RP: 1 unexpected gaps; I:AAVE25RP: 1 unexpected gaps",
+      "Out-of-market-hours data: 1070 rows (18.2% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6117012,
+    "tickers": 12355,
+    "file_size_mb": 543.04
+  },
+  {
+    "file": "2024-11-27.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Time gap issues: I:ABQI: 1 unexpected gaps; I:ABQX: 1 unexpected gaps",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6345246,
+    "tickers": 12393,
+    "file_size_mb": 560.5
+  },
+  {
+    "file": "2025-01-03.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 1070 rows (18.2% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6227910,
+    "tickers": 12361,
+    "file_size_mb": 549.72
+  },
+  {
+    "file": "2025-02-11.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6188284,
+    "tickers": 12127,
+    "file_size_mb": 546.48
+  },
+  {
+    "file": "2025-03-21.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 965 rows (16.7% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6305151,
+    "tickers": 12330,
+    "file_size_mb": 557.04
+  },
+  {
+    "file": "2025-04-29.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 970 rows (16.8% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6288793,
+    "tickers": 12458,
+    "file_size_mb": 553.96
+  },
+  {
+    "file": "2025-06-06.csv",
+    "dataset": "us_indices",
+    "category": "indices",
+    "issues": [
+      "Out-of-market-hours data: 955 rows (16.6% of sampled)",
+      "Timestamps not in chronological order"
+    ],
+    "rows": 6130095,
+    "tickers": 12202,
+    "file_size_mb": 541.46
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "port": 8080,
+  "baseURL": "",
+  "address": "0.0.0.0",
+  "log": "stdout",
+  "database": "/root/stock_project/filebrowser/database.db",
+  "root": "/root/stock_project/data",
+  "username": "admin",
+  "password": "",
+  "locale": "en",
+  "allow_commands": false,
+  "allow_edit": true,
+  "allow_new": true,
+  "commands": []
+}
